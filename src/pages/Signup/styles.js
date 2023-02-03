@@ -24,8 +24,9 @@ export const Content = styled.div`
 `;
 
 export const Label = styled.label`
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
   color: #676767;
 `;
 

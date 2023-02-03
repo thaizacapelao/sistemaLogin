@@ -1,6 +1,6 @@
 # Projeto de Sistema de Login
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Criação de uma tela de Sistema simples de tela de Login, onde será possível permanecer logado com a utilização de Context API, e a sessão de cadastro, onde irá ocorrer o armazenamento dos usuários no Local Storage do navegador.
 
 ## Available Scripts
 

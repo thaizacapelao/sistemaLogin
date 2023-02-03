@@ -1,4 +1,4 @@
-# ## 💻 Projeto: Sistema de Login
+# 💻 Projeto: Sistema de Login
 
 Criação de uma tela de Sistema simples de tela de Login, onde será possível permanecer logado com a utilização de Context API, e a sessão de cadastro, onde irá ocorrer o armazenamento dos usuários no Local Storage do navegador.
 

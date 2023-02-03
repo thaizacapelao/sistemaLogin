@@ -8,6 +8,24 @@ Criação de uma tela de Sistema simples de tela de Login, onde será possível 
 ![chrome_hm9yWosqje](https://user-images.githubusercontent.com/104083691/216699011-517e684c-da17-48ed-8101-4853a001d14a.gif)
 ![chrome_bXsTZyUu9i](https://user-images.githubusercontent.com/104083691/216702046-326dbecf-2f5c-42d5-b9fb-a40bc23fc53b.gif)
 
+## :hammer_and_wrench: Features:
+
+-   [ ] Utilizando a biblioteca Styled-components;
+-   [ ] Utilização da biblioteca Router-Dom;
+-   [ ] Trabalhando com Autenticação;
+-   [ ] Empregando Context API;
+-   [ ] Armazenamento no Local Storage;
+-   [ ] Usando Hook's;
+
+## ✨ Linguagens utilizadas:
+
+-   [ ] React.JS.
+-   [ ] JavaScript.
+-   [ ] HTML.
+
+## 🔖 Layout:
+
+Você pode visualizar o layout do projeto através [desse link]().
 
 ## Available Scripts
 

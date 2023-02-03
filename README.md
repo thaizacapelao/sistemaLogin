@@ -3,6 +3,9 @@
 Criação de uma tela de Sistema simples de tela de Login, onde será possível permanecer logado com a utilização de Context API, e a sessão de cadastro, onde irá ocorrer o armazenamento dos usuários no Local Storage do navegador.
 
 ![image](https://user-images.githubusercontent.com/104083691/216693912-16979c0a-36d9-4c20-8593-dde953fbd177.png)
+![chrome_98BJFlhnf7](https://user-images.githubusercontent.com/104083691/216698951-d4d69c38-d0d9-41a4-b57f-51f1a3a05cda.gif)
+![chrome_0ClNCUrYZT](https://user-images.githubusercontent.com/104083691/216698999-ee7e2041-7012-4c52-ba47-d12365c72e49.gif)
+![chrome_hm9yWosqje](https://user-images.githubusercontent.com/104083691/216699011-517e684c-da17-48ed-8101-4853a001d14a.gif)
 
 
 ## Available Scripts

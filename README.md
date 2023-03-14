@@ -2,7 +2,7 @@
 
 # 💻 Projeto:
 
-Criação de uma tela de Sistema simples de tela de Login, onde será possível permanecer logado com a utilização de Context API, e a sessão de cadastro, onde irá ocorrer o armazenamento dos usuários no Local Storage do navegador.
+Criação de uma tela de Sistema simples de tela de Login, onde será possível permanecer logado com a utilização de Context API e a sessão de cadastro, onde irá ocorrer o armazenamento dos usuários no Local Storage do navegador.
 
 ![image](https://user-images.githubusercontent.com/104083691/216693912-16979c0a-36d9-4c20-8593-dde953fbd177.png)
 ![chrome_98BJFlhnf7](https://user-images.githubusercontent.com/104083691/216698951-d4d69c38-d0d9-41a4-b57f-51f1a3a05cda.gif)
